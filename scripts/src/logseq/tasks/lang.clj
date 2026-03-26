@@ -185,6 +185,7 @@
    :tr #{:help/awesome-logseq}
    :id #{:host :port :on-boarding/section-app :right-side-bar/history-global}
    :cs #{:host :port :help/blog :settings-page/tab-editor :whiteboard/text}
+   :el #{:help/awesome-logseq :settings-page/enable-tooltip}
    })
 
 (defn- validate-languages-dont-have-duplicates
